@@ -1,2 +1,2 @@
-# homework_one_hard
-Harder version of the first homework assignment
+# Basic-Portfolio
+This is the first homework assignement, but will hopefully become a real portfolio someday...
